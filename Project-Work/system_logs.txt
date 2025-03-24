@@ -1,0 +1,10 @@
+
+[2023-01-01 08:02:15] INFO: System startup completed
+[2023-01-01 08:15:30] WARNING: High CPU usage detected (75%)
+[2023-01-01 09:30:45] ERROR: Failed to connect to database server
+[2023-01-01 10:05:12] INFO: Database connection restored
+[2023-01-01 11:20:33] WARNING: Memory usage approaching threshold (80%)
+[2023-01-01 12:45:10] ERROR: Application crashed - OutOfMemoryException
+[2023-01-01 13:10:25] INFO: Application restarted successfully
+[2023-01-01 14:30:40] INFO: Scheduled backup completed
+[2023-01-01 15:15:22] WARNING: Unusual network activity detected
